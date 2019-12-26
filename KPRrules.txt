@@ -1,0 +1,620 @@
+||kuaipaobiaoju.com
+||ytrenyu.com
+||ddmh01.com
+||stuowq.cn
+||nsdsok.cn
+
+||p.conn.aiseet.atianqi.com
+||connect.play.aiseet.atianqi.com
+||dp3.qq.com
+||oth.str.mdt.qq.com
+||livep.l.qq.com
+||android.bugly.qq.com
+||dp3.play.aiseet.atianqi.com
+||p.l.qq.com
+||ios.bugly.qq.com
+||sdk.e.qq.com
+||mi.gdt.qq.com
+||dorangesource.alicdn.com
+||cr-nielsen.com
+||btrace.video.qq.com
+||stats.jpush.cn
+||m.aty.sohu.com
+
+! Advertising 广告（以及隐私追踪）
+! > General
+
+||42trck.com
+||51.la
+||adcolony.com
+||adinfuse.com
+||adjust.com
+||adjust.io
+||admaster.com.cn
+||admob.com
+||adnxs.com
+||adnyg.com
+||adsensor.org
+||adsymptotic.com
+||adtarget.tech
+||adthor.com
+||adwhirl.com
+||amazon-adsystem.com
+||amobee.com
+||analysys.cn
+||app-adforce.jp
+||appads.com
+||appcpi.net
+||appier.net
+||applift.com
+||applovin.com
+||applvn.com
+||appsflyer.com
+||apsalar.com
+||apxadtracking.net
+||axonix.com
+||bayimob.com
+||bjvvqu.cn
+||bulldogcpi.com
+||clotfun.mobi
+||clotfun.online
+||cloudmobi.net
+||cnzz.com
+||ctrmi.com
+||exosrv.com
+||flurry.com
+||go2cloud.org
+||growingio.com
+||haloapps.com
+||hypers.com
+||idealads.net
+||inmobi.cn
+||inmobi.com
+||inmobi.net
+||inmobicdn.cn
+||inmobicdn.net
+||inner-active.mobi
+||insurads.com
+||ironsrc.com
+||irs01.com
+||iskyworker.com
+||juicyads.com
+||kochava.com
+||leadboltmobile.net
+||lenzmx.com
+||liveadvert.com
+||lnk0.com
+||lnk8.cn
+||localytics.com
+||mdfull.com
+||measurementapi.com
+||medialytics.com
+||meetrics.com
+||meetrics.net
+||miaozhen.com
+||mmstat.com
+||moatads.com
+||mobclix.com
+||mopub.com
+||okjhb.xyz
+||openx.net
+||pubmatic.com
+||qchannel01.cn
+||rayjump.com
+||rtbasia.com
+||rubiconproject.com
+||scorecardresearch.com
+||sdkclick.com
+||shuzilm.cn
+||smaato.net
+||smartadserver.com
+||smartnews-ads.com
+||supersonic.com
+||supersonicads.com
+||tagtic.cn
+||tanv.com
+||tanx.com
+||tapjoy.com
+||trafficjunky.net
+||turn.com
+||uri6.com
+||vidoomy.com
+||voicefive.com
+||vungle.com
+||wedolook.com
+||xdrig.com
+||zu08e.cn
+
+||ad.daum.net
+||track.xiachufang.com
+||abema-adx.ameba.jp
+||ad.12306.cn
+||ad.360in.com
+||ad.51wnl-cq.com
+||ad.caiyunapp.com
+||ad.huajiao.com
+||ad.hzyoka.com
+||ad.jiemian.com
+||ad.qingting.fm
+||ad.wappalyzer.com
+||ad-cn.jovcloud.com
+||adextra.51wnl-cq.com
+||ads.adadapted.com
+||ads.daydaycook.com.cn
+||ads.weilitoutiao.net
+||adsapi.manhuaren.com
+||adsdk.dmzj.com
+||adserver.pandora.com
+||adui.tg.meitu.com
+||adv.bandi.so
+||adxserver.ad.cmvideo.cn
+||app-ad.variflight.com
+||applog.mobike.com
+||appnext.hs.llnwd.net
+||appnext-a.akamaihd.net
+||ggs.myzaker.com
+||gs.getui.com
+||itad.linetv.tw
+||ja.chushou.tv
+||log.b612kaji.com
+||mads.suning.com
+||mobileads.msn.com
+||mopnativeadv.037201.com
+||nativeadv.dftoutiao.com
+||sugar.zhihu.com
+||toots-a.akamaihd.net
+||track.tiara.daum.net
+||track.tiara.kakao.com
+||trackapp.guahao.cn
+||traffic.mogujie.com
+||wmlog.meituan.com
+
+! (0~9)
+! > 58 同城
+||adshow.58.com
+||track.58.com
+||tracklog.58.com
+! (A)
+! > Apple
+||iadsdk.apple.com
+||ads.internal.unity3d.com
+||ads.prd.ie.internal.unity3d.com
+||unityads.unity3d.com
+! > Alibaba
+||acs4baichuan.m.taobao.com
+||adash.m.taobao.com
+||adash.man.aliyuncs.com
+||adashbc.ut.taobao.com
+||adash-c.ut.taobao.com
+||adashx.m.taobao.com
+||adashx4yt.m.taobao.com
+||adashxgc.ut.taobao.com
+||h-adashx.ut.taobao.com
+||nbsdk-baichuan.alicdn.com
+||optimus-ads.amap.com
+||optimus-ads.amap.com.w.alikunlun.com
+||tunion-api.m.taobao.com
+! > AutoHome
+||adproxy.autohome.com.cn
+||rd.autohome.com.cn
+||al.autohome.com.cn
+||applogapi.autohome.com.cn
+! (B)
+! > Baidu
+||baidustatic.com
+||cpro.baidu.com
+||pos.baidu.com
+||afd.baidu.com
+||als.baidu.com
+||duclick.baidu.com
+||hm.baidu.com
+||hmma.baidu.com
+||mobads.baidu.com
+||mobads-logs.baidu.com
+||nsclick.baidu.com
+! > ByteDance
+||ad.toutiao.com
+||applog.musical.ly
+||track.toutiao.com
+||xlog.snssdk.com
+||xlog-va.byteoversea.com
+! > BitAuto
+||adx.yiche.com
+||log.ycapp.yiche.com
+! > 百词斩
+||advertise.baicizhan.com
+||advertise.baicizhan.org
+! (C)
+! > CNTV
+||galaxy.bjcathay.com
+||mdrecv.app.cntvwb.cn
+||sdapprecv.app.cntvwb.cn
+||vdapprecv.app.cntvwb.cn
+! > ChinaTelecom
+||ad.k.21cn.com
+||admarket.21cn.com
+||adshows.21cn.com
+! > 车来了
+||atrace.chelaile.net.cn
+||logs.chelaile.net.cn
+! (G)
+! > Google
+||doubleclick.net
+||googleadservices.com
+||googleadsserving.cn
+||googlesyndication.com
+||googletagmanager.com
+||googletagservices.com
+! (H)
+! > HunanTV
+||da.mgtv.com
+||da.hunantv.com
+||log.hunantv.com
+||log.v2.hunantv.com
+||v2.log.hunantv.com
+! > Hupu
+||adx.hupu.com
+||adx-api.hupu.com
+||goblin.hupu.com
+! (I)
+! > iQiyi
+||ifacelog.iqiyi.com
+||msg.71.am
+||msg.qy.net
+||t7z.cupid.iqiyi.com
+! > Ifeng
+||deliver.ifeng.com
+||api.newad.ifeng.com
+||ifengad.3g.ifeng.com
+! (K)
+! > KuGou and Kuwo
+||adserviceretry.kugou.com
+||ads.service.kugou.com
+||adsfile.bssdlbig.kugou.com
+||g.koowo.com
+||kgmobilestat.kugou.com
+||kgmobilestatbak.kugou.com
+||mobilelog.kugou.com
+||mobilead.kuwo.cn
+||rich.kuwo.cn
+! > Kingsoft
+||ad-stat.ksosoft.com
+||img.auction-ads.wpscdn.cn
+||counter.kingsoft.com
+||counter.ksosoft.com
+||minfo.wps.cn
+||mobad.ijinshan.com
+||ups.ksmobile.net
+||ws.ksmobile.net
+! (L)
+! > Le
+||webp2p.letv.com
+||ark.letv.com
+||emma-414870e223.huodonghezi.com
+||g3.letv.com
+||n.mark.letv.com
+! > 乐播投屏
+||ad.hpplay.cn
+||adeng.hpplay.cn
+||rp.hpplay.cn
+! (M)
+! > MI
+||ad.intl.xiaomi.com
+||ad.xiaomi.com
+||admob.xiaomi.com
+||tracking.miui.com
+||adv.sec.intl.miui.com
+||adv.sec.miui.com
+||data.mistat.xiaomi.com
+||tracking.intl.miui.com
+! > 墨迹天气
+||ad.api.moji.com
+||adlaunch.moji.com
+||ads.mojicdn.com
+||v1.log.moji.com
+! (N)
+! > NetEase
+||ad.bn.netease.com
+||ad.yixin.im
+||admusicpic.music.126.net
+||gorgon.youdao.com
+||iadmat.nosdn.127.net
+||iadmusicmat.music.126.net
+||iadmusicmatvideo.music.126.net
+||impservice.dictapp.youdao.com
+||impservice.youdao.com
+||log.yex.youdao.com
+||log-yex.youdao.com
+||n.3g.163.com
+||nex.163.com
+||yt-adp.nosdn.127.net
+||yt-adp.ws.126.net
+! (P)
+! > PPTV
+||ads.aplus.pptv.com
+||ads.aplusapi.pptv.com
+||asimgs.pplive.cn
+||de.as.pptv.com
+! > Photoable
+||regist.fotoable.com
+||cdn.adapi.fotoable.com
+! > PeanutWiFiMpass
+||adnew.wifi8.com
+||adfile.wifi8.com
+! (S)
+! > Sina
+||beacon.sina.com.cn
+||adimg.vue.weibo.com
+||u1.img.mobile.sina.cn
+||sax.sina.com.cn
+||saxs.sina.com.cn
+||saxn.sina.com.cn
+! > Sohu
+||ad.sohu.com
+||ads.sohu.com
+||aty.sohu.com
+||imp.optaim.com
+||v2.reachmax.cn
+||track.sohu.com
+||hui.sohu.com
+! (T)
+! > Tencent
+||beacon.qq.com
+||bugly.qq.com
+||e.qq.com
+||gdt.qq.com
+||l.qq.com
+||rqd.qq.com
+||adsmind.tc.qq.com
+||adsmind.apdcdn.tc.qq.com
+||btrace.qq.com
+||mtrace.qq.com
+||oth.eve.mdt.qq.com
+||pgdt.gtimg.com
+||pgdt.gtimg.cn
+||pgdt.ugdtimg.com
+||pingma.qq.com
+||pingtcss.qq.com
+||splashqqlive.gtimg.com
+||tajs.qq.com
+||wxsnsdy.wxs.qq.com
+||wxsnsdythumb.wxs.qq.com
+! > The Paper
+||admonitor.thepaper.cn
+||adpai.thepaper.cn
+||imgadpai.thepaper.cn
+! > Thunder
+||adsp.xunlei.com
+||etl.xlmc.sandai.net
+! > 同花顺
+||adm.10jqka.com.cn
+||stat.10jqka.com.cn
+! > 太平洋
+||ad-analysis.pconline.com.cn
+||iad0ssl.pcauto.com.cn
+||iad0ssl.pconline.com.cn
+||imgad0.pcauto.com.cn
+||imgad0.pconline.com.cn
+||ivy.pchouse.com.cn
+! (U)
+! > UC
+||adtrack.ucweb.com
+||track.uc.cn
+! > Umeng
+||alog.umeng.co
+||alog.umeng.com
+||alogs.umeng.com
+||alog.umengcloud.com
+||alogs.umengcloud.com
+||ar.umeng.com
+||plbslog.umeng.com
+||ulogs.umeng.com
+||ulogs.umengcloud.com
+! (W)
+! > WiFi 万能钥匙
+||a.wkanx.com
+||cwx.lianwangtech.com
+||c1wx.lianwangtech.com
+! (X)
+! > 喜马拉雅
+||ad.ximalaya.com
+||adbs.ximalaya.com
+||adse.ximalaya.com
+||adse.wsa.ximalaya.com
+||adbehavior.wsa.ximalaya.com
+||adsebs.ximalaya.com
+! > 小红书
+||ads-video-qc.xhscdn.com
+||apm-track.xiaohongshu.com
+||t-ads.xiaohongshu.com
+! (Y)
+! > Youku
+||atm.youku.com
+||ad.mobile.youku.com
+||iyes.youku.com
+! (Z)
+! > ZOL
+||apppv.zol.com.cn
+||pvnapp.zol.com.cn
+
+! Internet Service Providers Hijacking 运营商劫持
+||17gouwuba.com
+||186078.com
+||189zj.cn
+||285680.com
+||3721zh.com
+||4336wang.cn
+||51chumoping.com
+||51mld.cn
+||51mypc.cn
+||58mingri.cn
+||58mingtian.cn
+||5vl58stm.com
+||6d63d3.com
+||7gg.cc
+||91veg.com
+||9s6q.cn
+||adsame.com
+||aiclk.com
+||akuai.top
+||atplay.cn
+||baiwanchuangyi.com
+||beerto.cn
+||beilamusi.com
+||benshiw.net
+||bianxianmao.com
+||bryonypie.com
+||cishantao.com
+||cszlks.com
+||cudaojia.com
+||dafapromo.com
+||daitdai.com
+||dsaeerf.com
+||dugesheying.com
+||dv8c1t.cn
+||echatu.com
+||erdoscs.com
+||fan-yong.com
+||feih.com.cn
+||fjlqqc.com
+||fkku194.com
+||freedrive.cn
+||gclick.cn
+||goufanli100.com
+||goupaoerdai.com
+||gouwubang.com
+||gzxnlk.com
+||haoshengtoys.com
+||hyunke.com
+||ichaosheng.com
+||ishop789.com
+||jdkic.com
+||jiubuhua.com
+||jsncke.com
+||junkucm.com
+||jwg365.cn
+||kawo77.com
+||kualianyingxiao.cn
+||kumihua.com
+||ltheanine.cn
+||maipinshangmao.com
+||minisplat.cn
+||mkitgfs.com
+||mlnbike.com
+||mobjump.com
+||nbkbgd.cn
+||newapi.com
+||pinzhitmall.com
+||poppyta.com
+||qianchuanghr.com
+||qichexin.com
+||qinchugudao.com
+||quanliyouxi.cn
+||qutaobi.com
+||ry51w.cn
+||sg536.cn
+||sifubo.cn
+||sifuce.cn
+||sifuda.cn
+||sifufu.cn
+||sifuge.cn
+||sifugu.cn
+||sifuhe.cn
+||sifuhu.cn
+||sifuji.cn
+||sifuka.cn
+||smgru.net
+||taoggou.com
+||tcxshop.com
+||tjqonline.cn
+||topitme.com
+||tt3sm4.cn
+||tuia.cn
+||tuipenguin.com
+||tuitiger.com
+||websd8.com
+||wsgblw.com
+||wx16999.com
+||xchmai.com
+||xiaohuau.xyz
+||ygyzx.cn
+||yinmong.com
+||yitaopt.com
+||yjqiqi.com
+||yukhj.com
+||zhaozecheng.cn
+||zhenxinet.com
+||zlne800.com
+||zunmi.cn
+||zzd6.com
+
+! Malware 恶意网站
+! > 快压
+! https://zhuanlan.zhihu.com/p/39534279
+||kuaizip.com
+! > MacKeeper
+! https://www.lizhi.io/blog/40002904
+||mackeeper.com
+||zryydi.com
+! > Adobe Flash China Special Edition
+! https://www.zhihu.com/question/281163698/answer/441388130
+||flash.cn
+||geo2.adobe.com
+! > C&J Marketing 思杰马克丁软件
+! https://www.zhihu.com/question/46746200
+||4009997658.com
+||abbyychina.com
+||bartender.cc
+||betterzip.net
+||betterzipcn.com
+||beyondcompare.cc
+||bingdianhuanyuan.cn
+||chemdraw.com.cn
+||cjmakeding.com
+||cjmkt.com
+||codesoftchina.com
+||coreldrawchina.com
+||crossoverchina.com
+||dongmansoft.com
+||earmasterchina.cn
+||easyrecoverychina.com
+||ediuschina.com
+||flstudiochina.com
+||formysql.com
+||guitarpro.cc
+||huishenghuiying.com.cn
+||hypersnap.net
+||iconworkshop.cn
+||imindmap.cc
+||jihehuaban.com.cn
+||keyshot.cc
+||kingdeecn.cn
+||logoshejishi.com
+||luping.net.cn
+||mairuan.cn
+||mairuan.com
+||mairuan.com.cn
+||mairuan.net
+||mairuanwang.com
+||makeding.com
+||mathtype.cn
+||mindmanager.cc
+||mindmanager.cn
+||mindmapper.cc
+||mycleanmymac.com
+||nicelabel.cc
+||ntfsformac.cc
+||ntfsformac.cn
+||overturechina.com
+||passwordrecovery.cn
+||pdfexpert.cc
+||photozoomchina.com
+||shankejingling.com
+||ultraiso.net
+||vegaschina.cn
+||xmindchina.net
+||xshellcn.com
+||yihuifu.cn
+||yuanchengxiezuo.com
+||zbrushcn.com
+||zhzzx.com
